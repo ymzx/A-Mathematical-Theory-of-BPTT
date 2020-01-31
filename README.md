@@ -4,7 +4,7 @@
 - RNN结构图-抽象
     ![sigmoid](./pics/RNN-diagram.png)
 - RNN结构图-具体
-    ![sigmoid](./pics/RNN-diagram2.png)
+    ![sigmoid](./pics/RNN-diagram_2.png)
 ### 符号说明
 ![sigmoid](./pics/symbol.png)
 
