@@ -1,7 +1,10 @@
 ### 常用的几个激活函数
 
 ### RNN结构图
-
+- RNN结构图-抽象
+    ![sigmoid](./pics/RNN-diagram.png)
+- RNN结构图-具体
+    ![sigmoid](./pics/RNN-diagram2.png)
 ### 符号说明
 ![sigmoid](./pics/symbol.png)
 
