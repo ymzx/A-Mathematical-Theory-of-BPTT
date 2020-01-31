@@ -3,7 +3,7 @@
 
 ### 常用激活函数及其到导数
 - sigmoid
-![sigmoid](https://raw.githubusercontent.com/ymzx/A-Mathematical-Theory-of-BPTT/master/pics/sigmoid.png)
+![sigmoid](./pics/sigmoid.png)
 - relu
 ![relu](./pics/relu.png)
 - tanh
