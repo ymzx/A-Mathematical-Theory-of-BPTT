@@ -3,8 +3,8 @@
 
 ### 常用激活函数及其到导数
 - sigmoid
-    ![sigmoid](./pics/sigmoid.png)
+![sigmoid](./pics/sigmoid.png)
 - relu
-    ![relu](./pics/relu.png)
+![relu](./pics/relu.png)
 - tanh
-    ![tanh](./pics/tanh.png)
+![tanh](./pics/tanh.png)
