@@ -2,6 +2,10 @@
 
 ### RNN结构图
 
+### 符号说明
+![sigmoid](./pics/symbol.png)
+
+## 附录
 ### 常用激活函数及其到导数
 - sigmoid
 
@@ -13,8 +17,7 @@
 
     ![tanh](./pics/tanh.png)
 
-
-#### 参考资料
+## 参考资料
 - [1] [Recurrent Neural Networks Tutorial, Part 3 – Backpropagation Through Time and Vanishing Gradients
 ](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/)
 
